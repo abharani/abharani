@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:www.linkedin.com/in/
 abha-rani-497196283
 
-- ⚡ My Portfolio: https://main--sensational-beignet-cb4302.netlify.app/
+- ⚡ My Portfolio: https://portfolio-abha.netlify.app/
 
